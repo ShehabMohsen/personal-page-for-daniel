@@ -1,0 +1,27 @@
+p {
+    font-size: 22px;
+    margin-left: 20px;
+    font-weight:500;
+    color: #feae51ff;
+}
+body {
+    color: purple;
+    background-color:#feae51ff;
+    margin-left: 25px;
+}
+
+#testid {
+    font-size: 22px;
+}
+.container {
+    background-color: purple;
+    display: flex;
+    padding: 20px;
+    margin: 25px;
+    align-self: center;
+}
+
+.text {
+    margin-left: 20px;
+
+}
